@@ -1,1 +1,1 @@
-return "V1.3.8+Free2";
+return "V1.3.9";
